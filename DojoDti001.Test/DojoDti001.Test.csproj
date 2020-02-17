@@ -12,4 +12,8 @@
     <PackageReference Include="MSTest.TestFramework" Version="1.3.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DojoDti001.Servico\DojoDti001.Servico.csproj" />
+  </ItemGroup>
+
 </Project>

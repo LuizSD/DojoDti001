@@ -1,0 +1,17 @@
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\DojoDti001.Test.deps.json
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\DojoDti001.Test.runtimeconfig.json
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\DojoDti001.Test.runtimeconfig.dev.json
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\DojoDti001.Test.dll
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\DojoDti001.Test.pdb
+C:\Projetos\DojoDti001\DojoDti001.Test\obj\Debug\netcoreapp2.1\DojoDti001.Test.csprojAssemblyReference.cache
+C:\Projetos\DojoDti001\DojoDti001.Test\obj\Debug\netcoreapp2.1\DojoDti001.Test.csproj.CoreCompileInputs.cache
+C:\Projetos\DojoDti001\DojoDti001.Test\obj\Debug\netcoreapp2.1\DojoDti001.Test.AssemblyInfoInputs.cache
+C:\Projetos\DojoDti001\DojoDti001.Test\obj\Debug\netcoreapp2.1\DojoDti001.Test.AssemblyInfo.cs
+C:\Projetos\DojoDti001\DojoDti001.Test\obj\Debug\netcoreapp2.1\DojoDti001.Test.dll
+C:\Projetos\DojoDti001\DojoDti001.Test\obj\Debug\netcoreapp2.1\DojoDti001.Test.pdb
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\DojoDti001.Servico.dll
+C:\Projetos\DojoDti001\DojoDti001.Test\bin\Debug\netcoreapp2.1\DojoDti001.Servico.pdb
+C:\Projetos\DojoDti001\DojoDti001.Test\obj\Debug\netcoreapp2.1\DojoDti001.Test.csproj.CopyComplete

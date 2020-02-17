@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "DojoDti001.Servico/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DojoDti001.Servico.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DojoDti001.Servico.dll": {}
+        }
       }
     }
   },
@@ -5809,10 +5819,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "DojoDti001.Servico/1.0.0": {
+      "type": "project",
+      "path": "../DojoDti001.Servico/DojoDti001.Servico.csproj",
+      "msbuildProject": "../DojoDti001.Servico/DojoDti001.Servico.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "DojoDti001.Servico >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
@@ -5848,7 +5864,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\DojoDti001\\DojoDti001.Servico\\DojoDti001.Servico.csproj": {
+              "projectPath": "C:\\Projetos\\DojoDti001\\DojoDti001.Servico\\DojoDti001.Servico.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5873,23 +5893,16 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
