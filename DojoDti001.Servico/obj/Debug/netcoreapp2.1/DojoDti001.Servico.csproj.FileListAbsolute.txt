@@ -2,7 +2,6 @@ C:\Projetos\DojoDti001\DojoDti001.Servico\bin\Debug\netcoreapp2.1\DojoDti001.Ser
 C:\Projetos\DojoDti001\DojoDti001.Servico\bin\Debug\netcoreapp2.1\DojoDti001.Servico.dll
 C:\Projetos\DojoDti001\DojoDti001.Servico\bin\Debug\netcoreapp2.1\DojoDti001.Servico.pdb
 C:\Projetos\DojoDti001\DojoDti001.Servico\obj\Debug\netcoreapp2.1\DojoDti001.Servico.csprojAssemblyReference.cache
-C:\Projetos\DojoDti001\DojoDti001.Servico\obj\Debug\netcoreapp2.1\DojoDti001.Servico.csproj.CoreCompileInputs.cache
 C:\Projetos\DojoDti001\DojoDti001.Servico\obj\Debug\netcoreapp2.1\DojoDti001.Servico.AssemblyInfoInputs.cache
 C:\Projetos\DojoDti001\DojoDti001.Servico\obj\Debug\netcoreapp2.1\DojoDti001.Servico.AssemblyInfo.cs
 C:\Projetos\DojoDti001\DojoDti001.Servico\obj\Debug\netcoreapp2.1\DojoDti001.Servico.dll
