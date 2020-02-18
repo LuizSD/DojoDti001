@@ -15,13 +15,20 @@ namespace DojoDti001.Test
         }
 
         [TestMethod]
-        public void TesteBasicoDeSoma()
+        public void TesteParaALetraA()
         {
+            var retorno = executor.Teste("A");
 
-            var retorno = executor.Teste();
+            Assert.AreEqual("A", retorno);
 
-            Assert.AreEqual(0, retorno);
+        }
 
+        [TestMethod]
+        public void TesteParaALetraB()
+        {
+            var retorno = executor.Teste("B");
+
+            Assert.AreEqual("A\nB B\nA", retorno);
         }
     }
 }
