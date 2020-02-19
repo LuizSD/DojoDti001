@@ -30,5 +30,13 @@ namespace DojoDti001.Test
 
             Assert.AreEqual("A\nB B\nA", retorno);
         }
+
+        [TestMethod]
+        public void TesteParaALetraE()
+        {
+            var retorno = executor.Teste("E");
+
+            Assert.AreEqual("A\nB B\nC  C\nD   D\nE    E\nD   D\nC  C\nB B\nA", retorno);
+        }
     }
 }
